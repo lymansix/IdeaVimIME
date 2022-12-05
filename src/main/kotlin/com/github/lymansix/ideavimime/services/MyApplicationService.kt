@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lymansix.ideavimime.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lymansix.ideavimime.MyBundle
 
 class MyApplicationService {
 
